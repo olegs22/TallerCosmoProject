@@ -10,6 +10,6 @@ Si se quiere seguir este nobook tal cual se tendran que instalar:
 
 -seaborn (opcional pero recomendable)
 
-Estos paquetes se pueden install con $pip install <paquete>
+Estos paquetes se pueden install con $pip install "paquete"
 
 
